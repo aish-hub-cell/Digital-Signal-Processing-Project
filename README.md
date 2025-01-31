@@ -20,7 +20,7 @@ The first script, `audio_generation.py`, generates a sinusoidal signal (a pure t
 
 A WAV file named noisy_audio.wav containing the noisy signal.
 A plot showing the clean and noisy signals.
-2. dsp.py
+
 
 ### Code Highlights:
 ```python
